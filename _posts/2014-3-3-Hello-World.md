@@ -14,4 +14,4 @@ def show
 end
 {% endhighlight %}
 
-![_config.yml](/images/config.jpg)
+![_config.yml]({{site.url}}/images/config.jpg)
