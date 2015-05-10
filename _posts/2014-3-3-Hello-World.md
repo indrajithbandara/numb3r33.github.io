@@ -13,3 +13,5 @@ def show
   end
 end
 {% endhighlight %}
+
+![_config.yml](/images/config.jpg)
