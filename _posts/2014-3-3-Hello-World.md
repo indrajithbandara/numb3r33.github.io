@@ -1,6 +1,7 @@
 ---
 layout: post
 title: You're up and running!
+---
 
 {% highlight ruby linenos %}
 def show
@@ -12,4 +13,3 @@ def show
   end
 end
 {% endhighlight %}
----
