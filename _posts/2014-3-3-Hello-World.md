@@ -14,4 +14,7 @@ def show
 end
 {% endhighlight %}
 
-![_config.yml](../images/config.png)
+{% include image.html
+            img="../images/config.png"
+            title="title for image"
+            caption="caption for image" %}
